@@ -5,11 +5,18 @@
 
 
 .oranje{
-    background-color: #ffa500;
+    background-color: #ffae18;
 }
 
 .blauw{
-    background-color: #008cff;
+    background-color: #01d2e0;
 }
 
+.link {
+    font-size: 40px;
+    font-family: "Arial";
+}
 
+.image {
+    text-align: center;
+}
