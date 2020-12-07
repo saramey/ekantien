@@ -9,14 +9,15 @@
 }
 
 .blauw{
-    background-color: #01d2e0;
+    background-color: #02d3c8;
 }
 
 .link {
     font-size: 40px;
     font-family: "Arial";
+    color: #00bbc2;
 }
 
-.center {
-    text-align: center;
+.align {
+    text-align: justify;
 }
