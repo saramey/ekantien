@@ -21,3 +21,21 @@
 .align {
     text-align: justify;
 }
+
+.hovered {
+    display: none;
+ }
+
+ .aanwijzen:hover .hovered{
+    display: block;
+    text-align:justify;
+ }
+
+ .aanwijzen {
+    position: relative;
+    height: 100px;
+    width: 500px;
+    background-size: cover;
+    display:block;
+    text-align: center;
+ }
