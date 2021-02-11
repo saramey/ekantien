@@ -26,9 +26,9 @@
     display: none;
  }
 
- .aanwijzen:hover, .hovered:hover{
+ .aanwijzen:hover .hovered{
     display: block;
-    text-align:justify;
+    text-align:center;
  }
 
  .aanwijzen {
@@ -37,5 +37,5 @@
     width: 500px;
     background-size: cover;
     display:block;
-    text-align: center;
+    text-align:center;
  }
